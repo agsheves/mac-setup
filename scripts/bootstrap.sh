@@ -1,5 +1,5 @@
 # Run command
-# curl -fsSL https://raw.githubusercontent.com/YOURUSER/YOURREPO/main/scripts/bootstrap.sh | bash
+# curl -fsSL https://raw.githubusercontent.com/agsheves/mac-setup/main/scripts/bootstrap.sh | bash
 
 #!/usr/bin/env bash
 set -e
